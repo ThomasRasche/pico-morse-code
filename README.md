@@ -47,6 +47,6 @@ while True:
     dot()
     time.sleep(0.7)
     dash() #o
-    dash()
+    dash() /n
     dash()
 
