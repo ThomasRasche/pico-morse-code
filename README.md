@@ -17,5 +17,7 @@ Write MicroPython code with Thonny Python IDE and save to Pico; save as main.py 
 
 
 The example files, when flashed to a Raspberry Pi Pico:
+
 main.py   outputs 'pico' in morse code using the Pico LED
+
 morse.py  converts any string of letters/numbers/words you put in, and outputs in morse code using the Pico LED
