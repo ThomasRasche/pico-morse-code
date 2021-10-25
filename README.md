@@ -16,6 +16,7 @@ Enable boot loading (first time use of Pico):
 Write MicroPython code with Thonny Python IDE and save to Pico; save as main.py on the Pico; this enables it to run when powered up.
 
 
+
 The example files, when flashed to a Raspberry Pi Pico:
 
 main.py   outputs 'pico' in morse code using the Pico LED
